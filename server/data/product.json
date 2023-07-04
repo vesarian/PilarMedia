@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "id_order": 1,
+        "product_name": "iphone 10",
+        "category": "electronic",
+        "SellerId": 1
+    },
+    {
+        "id": 2,
+        "id_order": 2,
+        "product_name": "snack chiki",
+        "category": "food",
+        "SellerId": 2
+    },
+    {
+        "id": 3,
+        "id_order": 3,
+        "product_name": "iphone 13",
+        "category": "electronic",
+        "SellerId": 3
+    },
+    {
+        "id": 4,
+        "id_order": 4,
+        "product_name": "roti tawar",
+        "category": "food",
+        "SellerId": 4
+    },
+    {
+        "id": 5,
+        "id_order": 5,
+        "product_name": "minuman kaleng",
+        "category": "food",
+        "SellerId": 5
+    }
+]

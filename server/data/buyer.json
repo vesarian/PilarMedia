@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nama": "Andi",
+        "id_penerima": "CS01",
+        "alamat": "Surabaya - Osowilangon"
+    },
+    {
+        "id": 2,
+        "nama": "Budi",
+        "id_penerima": "CS02",
+        "alamat": "Surabaya - Pasarturi"
+    },
+    {
+        "id": 3,
+        "nama": "Coki",
+        "id_penerima": "CS03",
+        "alamat": "Gresik - Kebomas"
+    },
+    {
+        "id": 4,
+        "nama": "Deni",
+        "id_penerima": "CS04",
+        "alamat": "Sidoarjo - Aloha"
+    },
+    {
+        "id": 5,
+        "nama": "Edo",
+        "id_penerima": "CS05",
+        "alamat": "Surabaya - Rungkut"
+    }
+]

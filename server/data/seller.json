@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "id_pengirim": "PJ01",
+        "username": "fani",
+        "email": "fani@mail.com",
+        "password": "asdasd"
+    },
+    {
+        "id": 2,
+        "id_pengirim": "PJ02",
+        "username": "gio",
+        "email": "gio@mail.com",
+        "password": "asdasd"
+    },
+    {
+        "id": 3,
+        "id_pengirim": "PJ03",
+        "username": "heri",
+        "email": "heri@mail.com",
+        "password": "asdasd"
+    },
+    {
+        "id": 4,
+        "id_pengirim": "PJ04",
+        "username": "intan",
+        "email": "intan@mail.com",
+        "password": "asdasd"
+    },
+    {
+        "id": 5,
+        "id_pengirim": "PJ05",
+        "username": "jon",
+        "email": "jon@mail.com",
+        "password": "asdasd"
+    }
+]

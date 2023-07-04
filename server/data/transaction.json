@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "BuyerId": 1,
+        "SellerId": 1,
+        "ProductId": 1,
+        "priority": 4
+    },
+    {
+        "id": 2,
+        "BuyerId": 2,
+        "SellerId": 2,
+        "ProductId": 2,
+        "priority": 3
+    },
+    {
+        "id": 3,
+        "BuyerId": 3,
+        "SellerId": 3,
+        "ProductId": 3,
+        "priority": 5
+    },
+    {
+        "id": 4,
+        "BuyerId": 4,
+        "SellerId": 4,
+        "ProductId": 4,
+        "priority": 1
+    },
+    {
+        "id": 5,
+        "BuyerId": 5,
+        "SellerId": 5,
+        "ProductId": 5,
+        "priority": 2
+    }
+]
